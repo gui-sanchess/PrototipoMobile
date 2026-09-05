@@ -1,0 +1,16 @@
+:root {
+    --primary-color: #1e66ff;
+    --background-color: #ffffff;
+    --text-color: #333333;
+    --border-color: #999;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 16px;
+    font-family: system-ui, Arial, sans-serif;
+    background-color: var(--background-color);
+}

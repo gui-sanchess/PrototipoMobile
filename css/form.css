@@ -1,0 +1,41 @@
+.form {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 100%;
+}
+
+.form_label {
+    margin: 8px 0 4px;
+    font-weight: 600;
+    color: var(--text-color);
+}
+
+.form_input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #999;
+    border-radius: 4px;
+}
+
+.form-login {
+    width: 60%;
+    min-width: 260px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form-cadastro {
+    width: 80%;
+    min-width: 260px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.form-newsletter {
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
