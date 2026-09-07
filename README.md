@@ -2,6 +2,7 @@
 
 ## Identificação do Grupo
 * Guilherme Diego Sanches
+* Andre Tozi Magalhães
 
 ## Descrição da Aplicação
 Este projeto contém a organização visual inicial de uma aplicação que será desenvolvida em React. O foco desta etapa é a construção das telas mobile em baixa fidelidade, a identificação dos elementos visuais recorrentes (componentes) e a estruturação inicial dos estilos CSS utilizando a metodologia BEM (Block, Element, Modifier).
